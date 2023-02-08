@@ -20,3 +20,7 @@ A streamlit app to demo ezapi-tmdb
     streamlit run app.py
 
 ## Credits
+
+- Icon from [www.themoviedb.org][1]
+
+[1]: https://www.themoviedb.org/about/logos-attribution
