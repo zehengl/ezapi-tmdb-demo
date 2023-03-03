@@ -3,7 +3,7 @@ import plotly.express as px
 import streamlit as st
 from tmdb import TMDb3, TMDb4
 
-st.set_page_config(page_title="ezapi-tmdb-demo", page_icon="random")
+st.set_page_config(page_title="ezapi-tmdb-demo", page_icon=":movie_camera:")
 _, center, _ = st.columns([2, 1, 2])
 with center:
     st.image(

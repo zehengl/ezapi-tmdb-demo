@@ -17,7 +17,7 @@ A streamlit app to demo ezapi-tmdb
     python -m venv .venv
     .venv\Scripts\activate
     pip install -r requirements-dev.txt
-    streamlit run app.py
+    streamlit run streamlit_app.py
 
 ## Credits
 
